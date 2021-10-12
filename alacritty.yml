@@ -90,7 +90,7 @@ background_opacity: 1.0
 
 key_bindings:
     # (Windows, Linux, and BSD only)
-  - { key: N,         mods: Alt,       action: Paste                       }
+  - { key: V,         mods: Alt,       action: Paste                       }
   - { key: Y,         mods: Alt,       action: Copy                        }
   - { key: Key0,      mods: Alt,       action: ResetFontSize               }
   - { key: Equals,    mods: Alt,       action: IncreaseFontSize            }
