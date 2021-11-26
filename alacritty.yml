@@ -15,7 +15,7 @@ window:
     general: Alacritty
 
 cursor:
-  style: Beam
+  style: Block
 
   # If this is `true`, the cursor will be rendered as a hollow box when the
   # window is not focused.
@@ -48,7 +48,7 @@ font:
 
   offset:
     x: -1
-    y: -2
+    y: -0
 
 draw_bold_text_with_bright_colors: true
 
