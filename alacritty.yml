@@ -86,7 +86,7 @@ schemes:
 
 colors: *one_dark
 
-background_opacity: 1.0
+window_opacity: 0
 
 key_bindings:
     # (Windows, Linux, and BSD only)
